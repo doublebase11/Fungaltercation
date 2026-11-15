@@ -1,0 +1,1 @@
+g++ -c src/*.cpp -c -std=c++14 -I include && g++ *.o my.res my1.res -L C:/sdl2/lib -lmingw32 -lSDL2main -lSDL2 -lSDL2_image -lSDL2_mixer -static-libgcc -static-libstdc++ -Wl,-subsystem,windows -O3

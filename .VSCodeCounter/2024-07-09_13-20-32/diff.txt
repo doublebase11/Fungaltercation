@@ -1,0 +1,80 @@
+Date : 2024-07-09 13:20:32
+Directory : c:\Users\Doublebase\Documents\Computing\game\gameV42 - VI\src
+Total : 50 files,  412 codes, 28 comments, 42 blanks, all 482 lines
+
+Languages
++----------+------------+------------+------------+------------+------------+
+| language | files      | code       | comment    | blank      | total      |
++----------+------------+------------+------------+------------+------------+
+| C++      |         48 |        412 |         28 |         42 |        482 |
+| Ini      |          2 |          0 |          0 |          0 |          0 |
++----------+------------+------------+------------+------------+------------+
+
+Directories
++------------------------------------------------------------------------------------------+------------+------------+------------+------------+------------+
+| path                                                                                     | files      | code       | comment    | blank      | total      |
++------------------------------------------------------------------------------------------+------------+------------+------------+------------+------------+
+| .                                                                                        |         50 |        412 |         28 |         42 |        482 |
+| . (Files)                                                                                |         25 |      4,785 |        245 |        894 |      5,924 |
+| ..                                                                                       |         25 |     -4,373 |       -217 |       -852 |     -5,442 |
+| ..\..                                                                                    |         25 |     -4,373 |       -217 |       -852 |     -5,442 |
+| ..\..\gameV42 - U - II                                                                   |         25 |     -4,373 |       -217 |       -852 |     -5,442 |
+| ..\..\gameV42 - U - II\src                                                               |         25 |     -4,373 |       -217 |       -852 |     -5,442 |
++------------------------------------------------------------------------------------------+------------+------------+------------+------------+------------+
+
+Files
++------------------------------------------------------------------------------------------+----------+------------+------------+------------+------------+
+| filename                                                                                 | language | code       | comment    | blank      | total      |
++------------------------------------------------------------------------------------------+----------+------------+------------+------------+------------+
+| c:\Users\Doublebase\Documents\Computing\game\gameV42 - U - II\src\animation.cpp          | C++      |        -19 |          0 |         -6 |        -25 |
+| c:\Users\Doublebase\Documents\Computing\game\gameV42 - U - II\src\button.cpp             | C++      |        -22 |          0 |         -2 |        -24 |
+| c:\Users\Doublebase\Documents\Computing\game\gameV42 - U - II\src\characterlist.cpp      | C++      |        -90 |          0 |        -25 |       -115 |
+| c:\Users\Doublebase\Documents\Computing\game\gameV42 - U - II\src\collision.cpp          | C++      |       -319 |         -4 |        -43 |       -366 |
+| c:\Users\Doublebase\Documents\Computing\game\gameV42 - U - II\src\desktop.ini            | Ini      |         -7 |          0 |          0 |         -7 |
+| c:\Users\Doublebase\Documents\Computing\game\gameV42 - U - II\src\drawplayers.cpp        | C++      |        -94 |         -6 |         -9 |       -109 |
+| c:\Users\Doublebase\Documents\Computing\game\gameV42 - U - II\src\elbow.cpp              | C++      |        -53 |        -10 |        -17 |        -80 |
+| c:\Users\Doublebase\Documents\Computing\game\gameV42 - U - II\src\game.cpp               | C++      |       -124 |        -26 |        -35 |       -185 |
+| c:\Users\Doublebase\Documents\Computing\game\gameV42 - U - II\src\gfx.cpp                | C++      |        -83 |         -4 |        -15 |       -102 |
+| c:\Users\Doublebase\Documents\Computing\game\gameV42 - U - II\src\hitbox.cpp             | C++      |        -23 |         -1 |        -10 |        -34 |
+| c:\Users\Doublebase\Documents\Computing\game\gameV42 - U - II\src\ingameui.cpp           | C++      |       -165 |        -16 |        -23 |       -204 |
+| c:\Users\Doublebase\Documents\Computing\game\gameV42 - U - II\src\input.cpp              | C++      |       -553 |        -14 |        -64 |       -631 |
+| c:\Users\Doublebase\Documents\Computing\game\gameV42 - U - II\src\main.cpp               | C++      |       -142 |         -8 |        -41 |       -191 |
+| c:\Users\Doublebase\Documents\Computing\game\gameV42 - U - II\src\maths.cpp              | C++      |        -95 |         -9 |        -31 |       -135 |
+| c:\Users\Doublebase\Documents\Computing\game\gameV42 - U - II\src\menu.cpp               | C++      |       -180 |        -11 |        -37 |       -228 |
+| c:\Users\Doublebase\Documents\Computing\game\gameV42 - U - II\src\movementcollisions.cpp | C++      |       -209 |         -8 |        -31 |       -248 |
+| c:\Users\Doublebase\Documents\Computing\game\gameV42 - U - II\src\particle.cpp           | C++      |       -104 |          0 |        -24 |       -128 |
+| c:\Users\Doublebase\Documents\Computing\game\gameV42 - U - II\src\player.cpp             | C++      |       -458 |        -10 |        -99 |       -567 |
+| c:\Users\Doublebase\Documents\Computing\game\gameV42 - U - II\src\specialmoves.cpp       | C++      |       -332 |        -13 |        -60 |       -405 |
+| c:\Users\Doublebase\Documents\Computing\game\gameV42 - U - II\src\stage.cpp              | C++      |        -37 |          0 |        -11 |        -48 |
+| c:\Users\Doublebase\Documents\Computing\game\gameV42 - U - II\src\stagelist.cpp          | C++      |       -106 |         -2 |        -24 |       -132 |
+| c:\Users\Doublebase\Documents\Computing\game\gameV42 - U - II\src\sword.cpp              | C++      |       -320 |        -31 |        -85 |       -436 |
+| c:\Users\Doublebase\Documents\Computing\game\gameV42 - U - II\src\swordcollisions.cpp    | C++      |       -654 |        -25 |       -106 |       -785 |
+| c:\Users\Doublebase\Documents\Computing\game\gameV42 - U - II\src\swordlist.cpp          | C++      |        -33 |          0 |         -3 |        -36 |
+| c:\Users\Doublebase\Documents\Computing\game\gameV42 - U - II\src\viewport.cpp           | C++      |       -151 |        -19 |        -51 |       -221 |
+| c:\Users\Doublebase\Documents\Computing\game\gameV42 - VI\src\animation.cpp              | C++      |         19 |          0 |          6 |         25 |
+| c:\Users\Doublebase\Documents\Computing\game\gameV42 - VI\src\button.cpp                 | C++      |         22 |          0 |          2 |         24 |
+| c:\Users\Doublebase\Documents\Computing\game\gameV42 - VI\src\characterlist.cpp          | C++      |         90 |          0 |         26 |        116 |
+| c:\Users\Doublebase\Documents\Computing\game\gameV42 - VI\src\collision.cpp              | C++      |        319 |          4 |         43 |        366 |
+| c:\Users\Doublebase\Documents\Computing\game\gameV42 - VI\src\desktop.ini                | Ini      |          7 |          0 |          0 |          7 |
+| c:\Users\Doublebase\Documents\Computing\game\gameV42 - VI\src\drawplayers.cpp            | C++      |         94 |          6 |          9 |        109 |
+| c:\Users\Doublebase\Documents\Computing\game\gameV42 - VI\src\elbow.cpp                  | C++      |         53 |         10 |         17 |         80 |
+| c:\Users\Doublebase\Documents\Computing\game\gameV42 - VI\src\game.cpp                   | C++      |        125 |         26 |         35 |        186 |
+| c:\Users\Doublebase\Documents\Computing\game\gameV42 - VI\src\gfx.cpp                    | C++      |         83 |          4 |         15 |        102 |
+| c:\Users\Doublebase\Documents\Computing\game\gameV42 - VI\src\hitbox.cpp                 | C++      |         23 |          1 |         10 |         34 |
+| c:\Users\Doublebase\Documents\Computing\game\gameV42 - VI\src\ingameui.cpp               | C++      |        165 |         16 |         23 |        204 |
+| c:\Users\Doublebase\Documents\Computing\game\gameV42 - VI\src\input.cpp                  | C++      |        759 |         39 |         59 |        857 |
+| c:\Users\Doublebase\Documents\Computing\game\gameV42 - VI\src\main.cpp                   | C++      |        218 |         14 |         58 |        290 |
+| c:\Users\Doublebase\Documents\Computing\game\gameV42 - VI\src\maths.cpp                  | C++      |         95 |          9 |         31 |        135 |
+| c:\Users\Doublebase\Documents\Computing\game\gameV42 - VI\src\menu.cpp                   | C++      |        214 |         11 |         47 |        272 |
+| c:\Users\Doublebase\Documents\Computing\game\gameV42 - VI\src\movementcollisions.cpp     | C++      |        209 |          8 |         31 |        248 |
+| c:\Users\Doublebase\Documents\Computing\game\gameV42 - VI\src\particle.cpp               | C++      |        104 |          0 |         24 |        128 |
+| c:\Users\Doublebase\Documents\Computing\game\gameV42 - VI\src\player.cpp                 | C++      |        472 |         10 |        101 |        583 |
+| c:\Users\Doublebase\Documents\Computing\game\gameV42 - VI\src\specialmoves.cpp           | C++      |        332 |         13 |         60 |        405 |
+| c:\Users\Doublebase\Documents\Computing\game\gameV42 - VI\src\stage.cpp                  | C++      |         72 |          3 |         16 |         91 |
+| c:\Users\Doublebase\Documents\Computing\game\gameV42 - VI\src\stagelist.cpp              | C++      |        136 |          2 |         33 |        171 |
+| c:\Users\Doublebase\Documents\Computing\game\gameV42 - VI\src\sword.cpp                  | C++      |        320 |         31 |         85 |        436 |
+| c:\Users\Doublebase\Documents\Computing\game\gameV42 - VI\src\swordcollisions.cpp        | C++      |        659 |         25 |        107 |        791 |
+| c:\Users\Doublebase\Documents\Computing\game\gameV42 - VI\src\swordlist.cpp              | C++      |         33 |          0 |          3 |         36 |
+| c:\Users\Doublebase\Documents\Computing\game\gameV42 - VI\src\viewport.cpp               | C++      |        162 |         13 |         53 |        228 |
+| Total                                                                                    |          |        412 |         28 |         42 |        482 |
++------------------------------------------------------------------------------------------+----------+------------+------------+------------+------------+

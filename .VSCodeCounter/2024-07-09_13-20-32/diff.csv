@@ -1,0 +1,52 @@
+"filename", "language", "C++", "Ini", "comment", "blank", "total"
+"c:\Users\Doublebase\Documents\Computing\game\gameV42 - U - II\src\animation.cpp", "C++", -19, 0, 0, -6, -25
+"c:\Users\Doublebase\Documents\Computing\game\gameV42 - U - II\src\button.cpp", "C++", -22, 0, 0, -2, -24
+"c:\Users\Doublebase\Documents\Computing\game\gameV42 - U - II\src\characterlist.cpp", "C++", -90, 0, 0, -25, -115
+"c:\Users\Doublebase\Documents\Computing\game\gameV42 - U - II\src\collision.cpp", "C++", -319, 0, -4, -43, -366
+"c:\Users\Doublebase\Documents\Computing\game\gameV42 - U - II\src\desktop.ini", "Ini", 0, -7, 0, 0, -7
+"c:\Users\Doublebase\Documents\Computing\game\gameV42 - U - II\src\drawplayers.cpp", "C++", -94, 0, -6, -9, -109
+"c:\Users\Doublebase\Documents\Computing\game\gameV42 - U - II\src\elbow.cpp", "C++", -53, 0, -10, -17, -80
+"c:\Users\Doublebase\Documents\Computing\game\gameV42 - U - II\src\game.cpp", "C++", -124, 0, -26, -35, -185
+"c:\Users\Doublebase\Documents\Computing\game\gameV42 - U - II\src\gfx.cpp", "C++", -83, 0, -4, -15, -102
+"c:\Users\Doublebase\Documents\Computing\game\gameV42 - U - II\src\hitbox.cpp", "C++", -23, 0, -1, -10, -34
+"c:\Users\Doublebase\Documents\Computing\game\gameV42 - U - II\src\ingameui.cpp", "C++", -165, 0, -16, -23, -204
+"c:\Users\Doublebase\Documents\Computing\game\gameV42 - U - II\src\input.cpp", "C++", -553, 0, -14, -64, -631
+"c:\Users\Doublebase\Documents\Computing\game\gameV42 - U - II\src\main.cpp", "C++", -142, 0, -8, -41, -191
+"c:\Users\Doublebase\Documents\Computing\game\gameV42 - U - II\src\maths.cpp", "C++", -95, 0, -9, -31, -135
+"c:\Users\Doublebase\Documents\Computing\game\gameV42 - U - II\src\menu.cpp", "C++", -180, 0, -11, -37, -228
+"c:\Users\Doublebase\Documents\Computing\game\gameV42 - U - II\src\movementcollisions.cpp", "C++", -209, 0, -8, -31, -248
+"c:\Users\Doublebase\Documents\Computing\game\gameV42 - U - II\src\particle.cpp", "C++", -104, 0, 0, -24, -128
+"c:\Users\Doublebase\Documents\Computing\game\gameV42 - U - II\src\player.cpp", "C++", -458, 0, -10, -99, -567
+"c:\Users\Doublebase\Documents\Computing\game\gameV42 - U - II\src\specialmoves.cpp", "C++", -332, 0, -13, -60, -405
+"c:\Users\Doublebase\Documents\Computing\game\gameV42 - U - II\src\stage.cpp", "C++", -37, 0, 0, -11, -48
+"c:\Users\Doublebase\Documents\Computing\game\gameV42 - U - II\src\stagelist.cpp", "C++", -106, 0, -2, -24, -132
+"c:\Users\Doublebase\Documents\Computing\game\gameV42 - U - II\src\sword.cpp", "C++", -320, 0, -31, -85, -436
+"c:\Users\Doublebase\Documents\Computing\game\gameV42 - U - II\src\swordcollisions.cpp", "C++", -654, 0, -25, -106, -785
+"c:\Users\Doublebase\Documents\Computing\game\gameV42 - U - II\src\swordlist.cpp", "C++", -33, 0, 0, -3, -36
+"c:\Users\Doublebase\Documents\Computing\game\gameV42 - U - II\src\viewport.cpp", "C++", -151, 0, -19, -51, -221
+"c:\Users\Doublebase\Documents\Computing\game\gameV42 - VI\src\animation.cpp", "C++", 19, 0, 0, 6, 25
+"c:\Users\Doublebase\Documents\Computing\game\gameV42 - VI\src\button.cpp", "C++", 22, 0, 0, 2, 24
+"c:\Users\Doublebase\Documents\Computing\game\gameV42 - VI\src\characterlist.cpp", "C++", 90, 0, 0, 26, 116
+"c:\Users\Doublebase\Documents\Computing\game\gameV42 - VI\src\collision.cpp", "C++", 319, 0, 4, 43, 366
+"c:\Users\Doublebase\Documents\Computing\game\gameV42 - VI\src\desktop.ini", "Ini", 0, 7, 0, 0, 7
+"c:\Users\Doublebase\Documents\Computing\game\gameV42 - VI\src\drawplayers.cpp", "C++", 94, 0, 6, 9, 109
+"c:\Users\Doublebase\Documents\Computing\game\gameV42 - VI\src\elbow.cpp", "C++", 53, 0, 10, 17, 80
+"c:\Users\Doublebase\Documents\Computing\game\gameV42 - VI\src\game.cpp", "C++", 125, 0, 26, 35, 186
+"c:\Users\Doublebase\Documents\Computing\game\gameV42 - VI\src\gfx.cpp", "C++", 83, 0, 4, 15, 102
+"c:\Users\Doublebase\Documents\Computing\game\gameV42 - VI\src\hitbox.cpp", "C++", 23, 0, 1, 10, 34
+"c:\Users\Doublebase\Documents\Computing\game\gameV42 - VI\src\ingameui.cpp", "C++", 165, 0, 16, 23, 204
+"c:\Users\Doublebase\Documents\Computing\game\gameV42 - VI\src\input.cpp", "C++", 759, 0, 39, 59, 857
+"c:\Users\Doublebase\Documents\Computing\game\gameV42 - VI\src\main.cpp", "C++", 218, 0, 14, 58, 290
+"c:\Users\Doublebase\Documents\Computing\game\gameV42 - VI\src\maths.cpp", "C++", 95, 0, 9, 31, 135
+"c:\Users\Doublebase\Documents\Computing\game\gameV42 - VI\src\menu.cpp", "C++", 214, 0, 11, 47, 272
+"c:\Users\Doublebase\Documents\Computing\game\gameV42 - VI\src\movementcollisions.cpp", "C++", 209, 0, 8, 31, 248
+"c:\Users\Doublebase\Documents\Computing\game\gameV42 - VI\src\particle.cpp", "C++", 104, 0, 0, 24, 128
+"c:\Users\Doublebase\Documents\Computing\game\gameV42 - VI\src\player.cpp", "C++", 472, 0, 10, 101, 583
+"c:\Users\Doublebase\Documents\Computing\game\gameV42 - VI\src\specialmoves.cpp", "C++", 332, 0, 13, 60, 405
+"c:\Users\Doublebase\Documents\Computing\game\gameV42 - VI\src\stage.cpp", "C++", 72, 0, 3, 16, 91
+"c:\Users\Doublebase\Documents\Computing\game\gameV42 - VI\src\stagelist.cpp", "C++", 136, 0, 2, 33, 171
+"c:\Users\Doublebase\Documents\Computing\game\gameV42 - VI\src\sword.cpp", "C++", 320, 0, 31, 85, 436
+"c:\Users\Doublebase\Documents\Computing\game\gameV42 - VI\src\swordcollisions.cpp", "C++", 659, 0, 25, 107, 791
+"c:\Users\Doublebase\Documents\Computing\game\gameV42 - VI\src\swordlist.cpp", "C++", 33, 0, 0, 3, 36
+"c:\Users\Doublebase\Documents\Computing\game\gameV42 - VI\src\viewport.cpp", "C++", 162, 0, 13, 53, 228
+"Total", "-", 412, 0, 28, 42, 482

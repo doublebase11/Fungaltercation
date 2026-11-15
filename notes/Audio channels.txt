@@ -1,0 +1,10 @@
+1 p1 jump
+2 p2 jump
+3 p1 land && hit(p2 hits p1)
+4 p2 land && hit(p1 hits p2)
+5 p1 walk p1 dash p1c1 special
+6 p2 walk p2 dash p2c1 special
+7 death(both players) parry(both players)
+8 
+9 
+

@@ -1,0 +1,31 @@
+need:
+sword hilt coords
+sword tip coords
+sword angle
+
+previous sword hilt coords
+previous sword tip coords
+previous sword angle
+
+functions:
+(1) calculate sword hilt coords given the angle and the height of the hilt and the radius
+(2) calculate sword tip coords given the angle and the height of the sword and the radius
+(3) calculates the sword coords given the angle and the radius
+
+-------------------------------
+1. No sword collision detected
+2. calculate the angle halfway between prevswordangle and swordangle (midswordangle)
+3. use (1), the radius, and midswordangle to calculate midtrajectoryhilt coords
+4. use (2), the radius, and midswordangle to calculate midtrajectorytip coords
+5. create hitbox (h1) using prevswordtip, prevswordhilt, midtrajectoryhilt, midtrajectorytip
+6. create hitbox (h2) using swordtip, swordhilt, midtrajectoryhilt, midtrajectorytip
+7. check if player2 is colliding with h1 || h2
+
+8. if false, the sword has not collided with player 2 so do nothing
+
+9. if true, set swordangle to swordprevangle
+10. if swordrotationchange is positive add 5 to swordangle and calculate sword coords using(3) until sword collides with player2
+11. if swordrotationchange is negative subtract 5 from swordangle and calculate sword coords using(3) until sword collides with player2
+12. use the other sword collision(the above one) to resolve collision
+
+

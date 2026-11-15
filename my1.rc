@@ -1,0 +1,23 @@
+1 VERSIONINFO
+FILEVERSION     1,0,0,0
+PRODUCTVERSION  1,0,0,0
+BEGIN
+  BLOCK "StringFileInfo"
+  BEGIN
+    BLOCK "080904E4"
+    BEGIN
+      VALUE "CompanyName", "Crime Comittee"
+      VALUE "FileDescription", "Stupid game"
+      VALUE "FileVersion", "1.0"
+      VALUE "InternalName", "Game"
+      VALUE "LegalCopyright", "Crime Comittee Game Studios"
+      VALUE "OriginalFilename", "Fungaltercation.exe"
+      VALUE "ProductName", "Fungaltercation"
+      VALUE "ProductVersion", "1.0"
+    END
+  END
+  BLOCK "VarFileInfo"
+  BEGIN
+    VALUE "Translation", 0x809, 1252
+  END
+END

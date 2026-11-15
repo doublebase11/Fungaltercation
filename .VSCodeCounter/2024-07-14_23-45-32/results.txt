@@ -1,0 +1,52 @@
+Date : 2024-07-14 23:45:32
+Directory : c:\Users\Doublebase\Documents\Computing\game\gameV47\src
+Total : 27 files,  5678 codes, 286 comments, 1033 blanks, all 6997 lines
+
+Languages
++----------+------------+------------+------------+------------+------------+
+| language | files      | code       | comment    | blank      | total      |
++----------+------------+------------+------------+------------+------------+
+| C++      |         26 |      5,671 |        286 |      1,033 |      6,990 |
+| Ini      |          1 |          7 |          0 |          0 |          7 |
++----------+------------+------------+------------+------------+------------+
+
+Directories
++---------------------------------------------------------------------------------+------------+------------+------------+------------+------------+
+| path                                                                            | files      | code       | comment    | blank      | total      |
++---------------------------------------------------------------------------------+------------+------------+------------+------------+------------+
+| .                                                                               |         27 |      5,678 |        286 |      1,033 |      6,997 |
++---------------------------------------------------------------------------------+------------+------------+------------+------------+------------+
+
+Files
++---------------------------------------------------------------------------------+----------+------------+------------+------------+------------+
+| filename                                                                        | language | code       | comment    | blank      | total      |
++---------------------------------------------------------------------------------+----------+------------+------------+------------+------------+
+| c:\Users\Doublebase\Documents\Computing\game\gameV47\src\animation.cpp          | C++      |         19 |          0 |          6 |         25 |
+| c:\Users\Doublebase\Documents\Computing\game\gameV47\src\button.cpp             | C++      |         22 |          0 |          2 |         24 |
+| c:\Users\Doublebase\Documents\Computing\game\gameV47\src\characterlist.cpp      | C++      |        116 |          0 |         26 |        142 |
+| c:\Users\Doublebase\Documents\Computing\game\gameV47\src\collision.cpp          | C++      |        319 |          4 |         43 |        366 |
+| c:\Users\Doublebase\Documents\Computing\game\gameV47\src\desktop.ini            | Ini      |          7 |          0 |          0 |          7 |
+| c:\Users\Doublebase\Documents\Computing\game\gameV47\src\drawplayers.cpp        | C++      |         98 |          5 |         10 |        113 |
+| c:\Users\Doublebase\Documents\Computing\game\gameV47\src\effects.cpp            | C++      |         37 |          0 |          4 |         41 |
+| c:\Users\Doublebase\Documents\Computing\game\gameV47\src\elbow.cpp              | C++      |         57 |         10 |         19 |         86 |
+| c:\Users\Doublebase\Documents\Computing\game\gameV47\src\game.cpp               | C++      |         78 |         62 |         41 |        181 |
+| c:\Users\Doublebase\Documents\Computing\game\gameV47\src\gfx.cpp                | C++      |         97 |          4 |         18 |        119 |
+| c:\Users\Doublebase\Documents\Computing\game\gameV47\src\hitbox.cpp             | C++      |         23 |          1 |         10 |         34 |
+| c:\Users\Doublebase\Documents\Computing\game\gameV47\src\ingameui.cpp           | C++      |        171 |         16 |         23 |        210 |
+| c:\Users\Doublebase\Documents\Computing\game\gameV47\src\input.cpp              | C++      |        813 |         46 |         69 |        928 |
+| c:\Users\Doublebase\Documents\Computing\game\gameV47\src\main.cpp               | C++      |        270 |          5 |         63 |        338 |
+| c:\Users\Doublebase\Documents\Computing\game\gameV47\src\maths.cpp              | C++      |        100 |          9 |         32 |        141 |
+| c:\Users\Doublebase\Documents\Computing\game\gameV47\src\menu.cpp               | C++      |        340 |          7 |         70 |        417 |
+| c:\Users\Doublebase\Documents\Computing\game\gameV47\src\movementcollisions.cpp | C++      |        230 |          4 |         33 |        267 |
+| c:\Users\Doublebase\Documents\Computing\game\gameV47\src\particle.cpp           | C++      |        154 |          6 |         26 |        186 |
+| c:\Users\Doublebase\Documents\Computing\game\gameV47\src\player.cpp             | C++      |        484 |          8 |        116 |        608 |
+| c:\Users\Doublebase\Documents\Computing\game\gameV47\src\sfx.cpp                | C++      |        189 |          0 |         15 |        204 |
+| c:\Users\Doublebase\Documents\Computing\game\gameV47\src\specialmoves.cpp       | C++      |        349 |         13 |         59 |        421 |
+| c:\Users\Doublebase\Documents\Computing\game\gameV47\src\stage.cpp              | C++      |        290 |         23 |         63 |        376 |
+| c:\Users\Doublebase\Documents\Computing\game\gameV47\src\stagelist.cpp          | C++      |        154 |          3 |         35 |        192 |
+| c:\Users\Doublebase\Documents\Computing\game\gameV47\src\sword.cpp              | C++      |        306 |         29 |         86 |        421 |
+| c:\Users\Doublebase\Documents\Computing\game\gameV47\src\swordcollisions.cpp    | C++      |        740 |         18 |        106 |        864 |
+| c:\Users\Doublebase\Documents\Computing\game\gameV47\src\swordlist.cpp          | C++      |         53 |          0 |          5 |         58 |
+| c:\Users\Doublebase\Documents\Computing\game\gameV47\src\viewport.cpp           | C++      |        162 |         13 |         53 |        228 |
+| Total                                                                           |          |      5,678 |        286 |      1,033 |      6,997 |
++---------------------------------------------------------------------------------+----------+------------+------------+------------+------------+

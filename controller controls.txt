@@ -1,0 +1,14 @@
+Triggers and bumpers may be swapped around because I(clement franklin) 
+am using a gamecube controller
+
+Left analogue stick to move (no jumping with this though because I(clement franklin) hate tap jump)
+D pad to move (you can jump with this)
+Right analogue stick to control sword
+
+Left trigger for special move
+Right trigger to jump
+Right bumper to dash in the direction you are currently facing
+
+Start button to pause
+
+
